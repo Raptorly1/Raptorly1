@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raptorly1
 - 👀 I’m interested in Robotics and engineering.
-- 🌱 I’m currently learning Proggraming Math Science and much more.
+- 🌱 I’m currently learning Programing Math Science and much more.
 - 💞️ I’m looking to collaborate on Robotics
 - 📫 How to reach me: Only people I know have my email :)
 
